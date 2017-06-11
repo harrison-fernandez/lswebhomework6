@@ -4,10 +4,17 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 
-	* Functions
-	* Parameters
-	* Arguments
-	* `if` statements
+	* Functions : 
+We use functions as a way to store code. Then, we can use this code at any time and anywhere in the program. Sometimes the code can perform an operation (addition, subtraction, division, multiplication, modulus) and return a value; other times it may not return a value.
+
+	* Parameters: 
+A parameter is the name of a variable to be entered into the function. In other words, a parameter is a placeholder, before anyone begins to type anything to activate the function.  Ex: Function(parameter1, parameter2) 
+	
+	* Arguments:
+An argument is the real value to be used within a function. This can be a real number like 4 or 18, or it can be a string like "Harrison". 
+
+	* `if` statements:
+'if' statements can be used to test something out and then perform an action based on the result of the test. An example in plain words would be: If variable1 is less than variable2, print on the screen "variable1 is less than variable2". 'if' statements are based on logic and our criteria. In the above example, our criteria to be met is that variable1 has to be less than variable2. 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
